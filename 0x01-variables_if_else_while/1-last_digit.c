@@ -5,7 +5,7 @@
 	 * main - Entry point
 	 * Return: 0 on success.
 	 */
-int main(void)
+int main(void) /*This is going to return a void statement*/
 {
 	int n;
 
