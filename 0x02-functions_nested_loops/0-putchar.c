@@ -6,12 +6,7 @@
  */
 int main(void)
 {
-	char *c = "_putchar\n";
-
-	while (*c)
-	{
-		_putchar(*c);
-		c++;
-	}
+	printf("_putchar\n");
+	
 	return (0);
 }
